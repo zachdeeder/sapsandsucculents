@@ -81,11 +81,11 @@ header a:hover{
 
 /* showcase */
 #showcase{
-	
+
 	min-height: 400px ;
-	background:url('../images/succulentsmall.jpg') no-repeat 0 -225px;
+	background:url('../images/succbanner.jpg') no-repeat 0 -225px;
 	background-size: cover;
-	
+
 }
 
 #newsletter{
@@ -109,6 +109,20 @@ header a:hover{
 	height:25px;
 	width:250px;
 }
+
+#welcomeOne .welcome{
+	text-align: center;
+}
+
+.welcome > h2{
+	font-weight: bolder;
+}
+
+.image{
+	padding: 20px 20px;
+	text-align:center;
+}
+
 
 #boxes{
 	margin-top:20px;
