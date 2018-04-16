@@ -82,9 +82,9 @@ header a:hover{
 /* showcase */
 #showcase{
 
-	min-height: 400px ;
-	background:url('../images/succbanner.jpg') no-repeat 0 -225px;
-	background-size: cover;
+	min-height: 400px;
+	background:url('../images/succbanner.jpg') no-repeat 0 -400px;
+
 
 }
 
